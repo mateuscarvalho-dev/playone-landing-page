@@ -1,146 +1,57 @@
-# 🚀 PlayOne Landing Page
+# 🚀 Subscription Service Landing Page
 
-> A modern, responsive landing page built to maximize lead generation and customer conversion through WhatsApp.
-
----
-
-## 📸 Project Preview
-
-> **Coming Soon**
->
-> *(A screenshot and live demo will be added soon.)*
+> A modern, responsive landing page designed to maximize lead generation and customer conversion.
 
 ---
 
-## 🌐 Live Demo
+## 📋 Project Overview
 
-Coming Soon
+This project demonstrates the development of a high-converting landing page for a subscription-based digital service.
 
----
-
-# 📋 About the Project
-
-The PlayOne Landing Page was designed to promote IPTV subscription plans through a clean, modern and conversion-focused interface.
-
-The primary goal was to encourage visitors to start a WhatsApp conversation while maintaining excellent loading performance and a fully responsive experience across all devices.
+The focus was on creating a modern interface, responsive layout and a seamless customer journey leading directly to WhatsApp.
 
 ---
 
-# 🎯 Business Challenge
+## 🎯 Business Challenge
 
-The client needed a professional landing page capable of:
+The objective was to build a landing page capable of:
 
 - Increasing lead generation
-- Improving user experience
-- Driving visitors directly to WhatsApp
-- Supporting Meta Ads campaigns
-- Loading quickly on mobile devices
+- Improving mobile experience
+- Supporting paid advertising campaigns
+- Encouraging direct customer contact
+- Delivering fast loading performance
 
 ---
 
-# 💡 Solution
+## 💡 Solution
 
-A complete responsive landing page was developed using HTML, CSS and JavaScript, focusing on performance, conversion and user experience.
+Developed using HTML, CSS and JavaScript with emphasis on conversion optimization.
 
-The project includes:
-
-- Modern UI Design
-- Mobile-First Development
-- Responsive Layout
-- WhatsApp Integration
-- Meta Pixel Ready
-- Optimized CTA Sections
-- Fast Loading
-- SEO Friendly Structure
-
----
-
-# 🛠 Tech Stack
-
-| Technology | Usage |
-|------------|-------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Interactivity |
-| Netlify | Deployment |
-| Meta Pixel | Conversion Tracking |
-
----
-
-# 📱 Responsive Design
-
-Fully optimized for:
-
-✅ Desktop
-
-✅ Tablet
-
-✅ Mobile Devices
-
----
-
-# ⚡ Performance
-
-The landing page was built with focus on:
-
-- Fast loading speed
-- Clean code
-- Mobile optimization
-- Better user experience
-- Conversion optimization
-
----
-
-# 🚀 Features
+### Main Features
 
 - Responsive Design
-- Mobile First Layout
+- Mobile First
 - WhatsApp Integration
-- Meta Pixel Integration
-- SEO Friendly
+- Meta Pixel Ready
+- Modern UI
 - Fast Loading
-- Clean Code
-- Conversion-Oriented Structure
+- SEO Friendly
 
 ---
 
-# 📈 Project Goal
+## 🛠 Technologies
 
-Develop a professional landing page capable of generating qualified leads while delivering an excellent browsing experience and supporting digital marketing campaigns.
-
----
-
-# 👨‍💻 Developer
-
-## Mateus Carvalho
-
-**Conversion-Focused Landing Page Developer**
-
-Specialized in:
-
-- Landing Pages
-- Shopify
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Meta Ads
+- Netlify
 - Meta Pixel
-- Conversion Optimization
-- WhatsApp Business
-- E-commerce
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Developer
 
-**Email**
+Mateus Carvalho
 
-Mateus777rc@gmail.com
-
-**Location**
-
-Brazil 🇧🇷
-
----
-
-⭐ If you like this project, consider giving it a star.
+Landing Page Developer | Digital Marketing
