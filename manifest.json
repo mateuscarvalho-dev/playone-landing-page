@@ -1,0 +1,31 @@
+{
+  "name": "PlayOne",
+  "short_name": "PlayOne",
+  "description": "Solicite seu teste gratuito de 3 dias e conheça a experiência PlayOne.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#d50000",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "assets/favicon/android-chrome-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicon/android-chrome-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

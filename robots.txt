@@ -1,0 +1,9 @@
+# ============================================
+# PlayOne - robots.txt
+# ============================================
+
+User-agent: *
+Allow: /
+
+# Substitua pela URL final do seu site
+Sitemap: https://playoneiptv.netlify.app/sitemap.xml
